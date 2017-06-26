@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: c4b118a0f81cf4f2c905e3e4abbcb5c8
+timeCreated: 1497751700
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basicdress2:group
+    100002: basicdress2:pasted__pPlane4
+    100004: basicdress2:pasted__pPlane4 1
+    100006: basicdress2:pasted__pPlane5
+    100008: basicdress2:pCube1
+    100010: basicdress2:pCube2
+    100012: basicdress2:polySurface1
+    100014: basicdress2:polySurface3
+    100016: basicdress2:polySurface4
+    100018: basicdress2:polySurface5
+    100020: basicdress2:polySurface6
+    100022: basicdress2:polySurface7
+    100024: basicdress2:polySurface9
+    100026: basicdress2:pPlane1
+    100028: basicdress2:pPlane10
+    100030: basicdress2:pPlane11
+    100032: basicdress2:pPlane2
+    100034: basicdress2:pPlane3
+    100036: basicdress2:pPlane4
+    100038: basicdress2:pPlane5
+    100040: basicdress2:pPlane6
+    100042: basicdress2:pPlane7
+    100044: basicdress2:pPlane8
+    100046: basicdress2:pPlane9
+    100048: basicdress2:pSphere1
+    100050: basicdress2:pSphere2
+    100052: basicdress2:transform1
+    100054: basicdress2:transform10
+    100056: basicdress2:transform11
+    100058: basicdress2:transform12
+    100060: basicdress2:transform13
+    100062: basicdress2:transform14
+    100064: basicdress2:transform15
+    100066: basicdress2:transform16
+    100068: basicdress2:transform17
+    100070: basicdress2:transform18
+    100072: basicdress2:transform19
+    100074: basicdress2:transform2
+    100076: basicdress2:transform20
+    100078: basicdress2:transform21
+    100080: basicdress2:transform22
+    100082: basicdress2:transform23
+    100084: basicdress2:transform24
+    100086: basicdress2:transform3
+    100088: basicdress2:transform4
+    100090: basicdress2:transform5
+    100092: basicdress2:transform6
+    100094: basicdress2:transform7
+    100096: basicdress2:transform8
+    100098: basicdress2:transform9
+    100100: group
+    100102: hairs
+    100104: ikHandle1
+    100106: ikHandle2
+    100108: ikHandle3
+    100110: ikHandle4
+    100112: joint1
+    100114: joint10
+    100116: joint11
+    100118: joint12
+    100120: joint13
+    100122: joint14
+    100124: joint15
+    100126: joint16
+    100128: joint17
+    100130: joint18
+    100132: joint19
+    100134: joint2
+    100136: joint20
+    100138: joint21
+    100140: joint22
+    100142: joint23
+    100144: joint24
+    100146: joint25
+    100148: joint26
+    100150: joint27
+    100152: joint28
+    100154: joint29
+    100156: joint3
+    100158: joint30
+    100160: joint31
+    100162: joint32
+    100164: joint33
+    100166: joint34
+    100168: joint35
+    100170: joint36
+    100172: joint37
+    100174: joint38
+    100176: joint39
+    100178: joint4
+    100180: joint40
+    100182: joint41
+    100184: joint42
+    100186: joint43
+    100188: joint44
+    100190: joint45
+    100192: joint46
+    100194: joint47
+    100196: joint48
+    100198: joint49
+    100200: joint5
+    100202: joint50
+    100204: joint51
+    100206: joint52
+    100208: joint53
+    100210: joint54
+    100212: joint55
+    100214: joint56
+    100216: joint57
+    100218: joint58
+    100220: joint59
+    100222: joint6
+    100224: joint7
+    100226: joint8
+    100228: joint9
+    100230: //RootNode
+    100232: pasted__pPlane4
+    100234: pasted__pPlane4 1
+    100236: pasted__pPlane5
+    100238: pCube1
+    100240: pCube2
+    100242: polySurface1
+    100244: polySurface2
+    100246: polySurface3
+    100248: polySurface4
+    100250: polySurface5
+    100252: polySurface6
+    100254: polySurface7
+    100256: pPlane1
+    100258: pPlane10
+    100260: pPlane11
+    100262: pPlane2
+    100264: pPlane3
+    100266: pPlane4
+    100268: pPlane5
+    100270: pPlane6
+    100272: pPlane7
+    100274: pPlane8
+    100276: pPlane9
+    100278: pSphere1
+    100280: pSphere2
+    100282: transform1
+    100284: transform10
+    100286: transform11
+    100288: transform12
+    100290: transform13
+    100292: transform14
+    100294: transform15
+    100296: transform16
+    100298: transform17
+    100300: transform18
+    100302: transform19
+    100304: transform2
+    100306: transform20
+    100308: transform21
+    100310: transform22
+    100312: transform23
+    100314: transform3
+    100316: transform4
+    100318: transform5
+    100320: transform6
+    100322: transform7
+    100324: transform8
+    100326: transform9
+    400000: basicdress2:group
+    400002: basicdress2:pasted__pPlane4
+    400004: basicdress2:pasted__pPlane4 1
+    400006: basicdress2:pasted__pPlane5
+    400008: basicdress2:pCube1
+    400010: basicdress2:pCube2
+    400012: basicdress2:polySurface1
+    400014: basicdress2:polySurface3
+    400016: basicdress2:polySurface4
+    400018: basicdress2:polySurface5
+    400020: basicdress2:polySurface6
+    400022: basicdress2:polySurface7
+    400024: basicdress2:polySurface9
+    400026: basicdress2:pPlane1
+    400028: basicdress2:pPlane10
+    400030: basicdress2:pPlane11
+    400032: basicdress2:pPlane2
+    400034: basicdress2:pPlane3
+    400036: basicdress2:pPlane4
+    400038: basicdress2:pPlane5
+    400040: basicdress2:pPlane6
+    400042: basicdress2:pPlane7
+    400044: basicdress2:pPlane8
+    400046: basicdress2:pPlane9
+    400048: basicdress2:pSphere1
+    400050: basicdress2:pSphere2
+    400052: basicdress2:transform1
+    400054: basicdress2:transform10
+    400056: basicdress2:transform11
+    400058: basicdress2:transform12
+    400060: basicdress2:transform13
+    400062: basicdress2:transform14
+    400064: basicdress2:transform15
+    400066: basicdress2:transform16
+    400068: basicdress2:transform17
+    400070: basicdress2:transform18
+    400072: basicdress2:transform19
+    400074: basicdress2:transform2
+    400076: basicdress2:transform20
+    400078: basicdress2:transform21
+    400080: basicdress2:transform22
+    400082: basicdress2:transform23
+    400084: basicdress2:transform24
+    400086: basicdress2:transform3
+    400088: basicdress2:transform4
+    400090: basicdress2:transform5
+    400092: basicdress2:transform6
+    400094: basicdress2:transform7
+    400096: basicdress2:transform8
+    400098: basicdress2:transform9
+    400100: group
+    400102: hairs
+    400104: ikHandle1
+    400106: ikHandle2
+    400108: ikHandle3
+    400110: ikHandle4
+    400112: joint1
+    400114: joint10
+    400116: joint11
+    400118: joint12
+    400120: joint13
+    400122: joint14
+    400124: joint15
+    400126: joint16
+    400128: joint17
+    400130: joint18
+    400132: joint19
+    400134: joint2
+    400136: joint20
+    400138: joint21
+    400140: joint22
+    400142: joint23
+    400144: joint24
+    400146: joint25
+    400148: joint26
+    400150: joint27
+    400152: joint28
+    400154: joint29
+    400156: joint3
+    400158: joint30
+    400160: joint31
+    400162: joint32
+    400164: joint33
+    400166: joint34
+    400168: joint35
+    400170: joint36
+    400172: joint37
+    400174: joint38
+    400176: joint39
+    400178: joint4
+    400180: joint40
+    400182: joint41
+    400184: joint42
+    400186: joint43
+    400188: joint44
+    400190: joint45
+    400192: joint46
+    400194: joint47
+    400196: joint48
+    400198: joint49
+    400200: joint5
+    400202: joint50
+    400204: joint51
+    400206: joint52
+    400208: joint53
+    400210: joint54
+    400212: joint55
+    400214: joint56
+    400216: joint57
+    400218: joint58
+    400220: joint59
+    400222: joint6
+    400224: joint7
+    400226: joint8
+    400228: joint9
+    400230: //RootNode
+    400232: pasted__pPlane4
+    400234: pasted__pPlane4 1
+    400236: pasted__pPlane5
+    400238: pCube1
+    400240: pCube2
+    400242: polySurface1
+    400244: polySurface2
+    400246: polySurface3
+    400248: polySurface4
+    400250: polySurface5
+    400252: polySurface6
+    400254: polySurface7
+    400256: pPlane1
+    400258: pPlane10
+    400260: pPlane11
+    400262: pPlane2
+    400264: pPlane3
+    400266: pPlane4
+    400268: pPlane5
+    400270: pPlane6
+    400272: pPlane7
+    400274: pPlane8
+    400276: pPlane9
+    400278: pSphere1
+    400280: pSphere2
+    400282: transform1
+    400284: transform10
+    400286: transform11
+    400288: transform12
+    400290: transform13
+    400292: transform14
+    400294: transform15
+    400296: transform16
+    400298: transform17
+    400300: transform18
+    400302: transform19
+    400304: transform2
+    400306: transform20
+    400308: transform21
+    400310: transform22
+    400312: transform23
+    400314: transform3
+    400316: transform4
+    400318: transform5
+    400320: transform6
+    400322: transform7
+    400324: transform8
+    400326: transform9
+    2300000: hairs
+    2300002: polySurface2
+    3300000: hairs
+    3300002: polySurface2
+    4300000: polySurface2
+    4300002: hairs
+    7400000: jumpanim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: jumpanim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: basicdress2:group
+        weight: 1
+      - path: basicdress2:group/basicdress2:pasted__pPlane4 1
+        weight: 1
+      - path: basicdress2:group/basicdress2:pasted__pPlane4 1/basicdress2:transform2
+        weight: 1
+      - path: basicdress2:pasted__pPlane4
+        weight: 1
+      - path: basicdress2:pasted__pPlane4/basicdress2:transform4
+        weight: 1
+      - path: basicdress2:pasted__pPlane5
+        weight: 1
+      - path: basicdress2:pasted__pPlane5/basicdress2:transform6
+        weight: 1
+      - path: basicdress2:pCube1
+        weight: 1
+      - path: basicdress2:pCube1/basicdress2:transform17
+        weight: 1
+      - path: basicdress2:pCube2
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3/basicdress2:polySurface5
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3/basicdress2:polySurface5/basicdress2:transform23
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3/basicdress2:polySurface6
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3/basicdress2:polySurface6/basicdress2:transform22
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface3/basicdress2:transform20
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface4
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface4/basicdress2:polySurface7
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface4/basicdress2:polySurface7/basicdress2:polySurface9
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface4/basicdress2:polySurface7/basicdress2:transform24
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:polySurface4/basicdress2:transform21
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:polySurface1/basicdress2:transform19
+        weight: 1
+      - path: basicdress2:pCube2/basicdress2:transform18
+        weight: 1
+      - path: basicdress2:pPlane1
+        weight: 1
+      - path: basicdress2:pPlane1/basicdress2:transform7
+        weight: 1
+      - path: basicdress2:pPlane2
+        weight: 1
+      - path: basicdress2:pPlane2/basicdress2:transform5
+        weight: 1
+      - path: basicdress2:pPlane3
+        weight: 1
+      - path: basicdress2:pPlane3/basicdress2:transform3
+        weight: 1
+      - path: basicdress2:pPlane4
+        weight: 1
+      - path: basicdress2:pPlane4/basicdress2:transform1
+        weight: 1
+      - path: basicdress2:pPlane5
+        weight: 1
+      - path: basicdress2:pPlane5/basicdress2:transform9
+        weight: 1
+      - path: basicdress2:pPlane6
+        weight: 1
+      - path: basicdress2:pPlane6/basicdress2:transform8
+        weight: 1
+      - path: basicdress2:pPlane7
+        weight: 1
+      - path: basicdress2:pPlane7/basicdress2:transform10
+        weight: 1
+      - path: basicdress2:pPlane8
+        weight: 1
+      - path: basicdress2:pPlane8/basicdress2:transform11
+        weight: 1
+      - path: basicdress2:pPlane9
+        weight: 1
+      - path: basicdress2:pPlane9/basicdress2:transform13
+        weight: 1
+      - path: basicdress2:pPlane10
+        weight: 1
+      - path: basicdress2:pPlane10/basicdress2:transform12
+        weight: 1
+      - path: basicdress2:pPlane11
+        weight: 1
+      - path: basicdress2:pPlane11/basicdress2:transform14
+        weight: 1
+      - path: basicdress2:pSphere1
+        weight: 1
+      - path: basicdress2:pSphere1/basicdress2:transform16
+        weight: 1
+      - path: basicdress2:pSphere2
+        weight: 1
+      - path: basicdress2:pSphere2/basicdress2:transform15
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pPlane4 1
+        weight: 1
+      - path: group/pasted__pPlane4 1/transform2
+        weight: 1
+      - path: hairs
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24/joint25
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint26
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint26/joint27
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint26/joint27/joint28
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint29
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint29/joint30
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint29/joint30/joint31
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint32
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint32/joint33
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint32/joint33/joint34
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint35
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint35/joint36
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint35/joint36/joint37
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint38
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint38/joint39
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint38/joint39/joint40
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint41
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint41/joint42
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint41/joint42/joint43
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint44
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint44/joint45
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint44/joint45/joint46
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint47
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint47/joint48
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint47/joint48/joint49
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint50
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint50/joint51
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint10/joint11/joint12/joint13/joint50/joint51/joint52
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint54
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint54/joint55
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint57
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint57/joint58
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint22/joint53/joint57/joint58/joint59
+        weight: 1
+      - path: joint1/joint14
+        weight: 1
+      - path: joint1/joint14/joint15
+        weight: 1
+      - path: joint1/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint18
+        weight: 1
+      - path: joint1/joint18/joint19
+        weight: 1
+      - path: joint1/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: pasted__pPlane4
+        weight: 1
+      - path: pasted__pPlane4/transform4
+        weight: 1
+      - path: pasted__pPlane5
+        weight: 1
+      - path: pasted__pPlane5/transform6
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform17
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/polySurface1
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3/polySurface5
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3/polySurface5/transform23
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3/polySurface6
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3/polySurface6/transform22
+        weight: 1
+      - path: pCube2/polySurface1/polySurface3/transform20
+        weight: 1
+      - path: pCube2/polySurface1/polySurface4
+        weight: 1
+      - path: pCube2/polySurface1/polySurface4/polySurface7
+        weight: 1
+      - path: pCube2/polySurface1/polySurface4/transform21
+        weight: 1
+      - path: pCube2/polySurface1/transform19
+        weight: 1
+      - path: pCube2/polySurface2
+        weight: 1
+      - path: pCube2/transform18
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pPlane1/transform7
+        weight: 1
+      - path: pPlane2
+        weight: 1
+      - path: pPlane2/transform5
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane3/transform3
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: pPlane4/transform1
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      - path: pPlane5/transform9
+        weight: 1
+      - path: pPlane6
+        weight: 1
+      - path: pPlane6/transform8
+        weight: 1
+      - path: pPlane7
+        weight: 1
+      - path: pPlane7/transform10
+        weight: 1
+      - path: pPlane8
+        weight: 1
+      - path: pPlane8/transform11
+        weight: 1
+      - path: pPlane9
+        weight: 1
+      - path: pPlane9/transform13
+        weight: 1
+      - path: pPlane10
+        weight: 1
+      - path: pPlane10/transform12
+        weight: 1
+      - path: pPlane11
+        weight: 1
+      - path: pPlane11/transform14
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform16
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere2/transform15
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
